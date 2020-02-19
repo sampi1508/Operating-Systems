@@ -1,0 +1,3 @@
+An operating system manages the resources of your computer.
+Without an operating system, your computer would just be
+a really expensive paperweight.
