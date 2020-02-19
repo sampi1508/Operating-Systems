@@ -1,3 +1,7 @@
 An operating system manages the resources of your computer.
 Without an operating system, your computer would just be
 a really expensive paperweight.
+
+An operating system uses different methods of user data protection, 
+like the implementation of password on the user's account, and 
+other files or programs.
