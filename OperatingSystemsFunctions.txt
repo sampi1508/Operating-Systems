@@ -5,3 +5,8 @@ a really expensive paperweight.
 An operating system uses different methods of user data protection, 
 like the implementation of password on the user's account, and 
 other files or programs.
+
+An operating system can run different types of programs, 
+these can be either added by the user or by default on
+the OS installation. Once it runs the program, it makes sure
+to use the necessary resources in order to run it efficiently.
